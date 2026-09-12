@@ -18,7 +18,7 @@ input.style.padding = '8px';
 input.style.fontSize = '16px';
 
 const guessButton = document.createElement('button');
-guessButton.textContent = 'Submit Guess';
+guessButton.textContent = 'Guess';
 guessButton.style.padding = '8px 16px';
 guessButton.style.fontSize = '16px';
 guessButton.style.cursor = 'pointer';
